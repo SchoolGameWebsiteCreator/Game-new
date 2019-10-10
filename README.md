@@ -1,2 +1,2 @@
-# Game-new
-Game website
+# Binding of Isaac
+The Original
